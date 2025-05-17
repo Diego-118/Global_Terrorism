@@ -31,7 +31,7 @@ Here are some powerful insights we uncovered. Some expected, some shocking:
 Want to explore the data yourself? Follow these steps:
 1️⃣ Clone this repository:
    ```bash
-   git clone https://github.com/Diego-118/Student-Performance-Factors.git
+   git clone https://github.com/Diego-118/Global_Terrorism.git
    ```
 2️⃣ Install the required dependencies:
    ```bash
